@@ -10,6 +10,7 @@ public class Problem1_Activity_Selection {
             this.end = end;
         }
     }
+
     public static void ActivitySelection(Activity[] activities) {
         Arrays.sort(activities, Comparator.comparingInt(a -> a.end));
 
