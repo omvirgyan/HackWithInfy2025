@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
 
-public class FractionalKnapsack {
+public class Fractional2_Knapsack {
 
     static class Knapsack {
         int value, weight;
