@@ -43,6 +43,6 @@ public class Problem1_Activity_Selection {
         }
 
         ActivitySelection(activities);
-        sc.close();
+        
     }
 }
